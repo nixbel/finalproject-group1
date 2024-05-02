@@ -70,7 +70,7 @@ def decrypt_rsa(private_key, encrypted_message):
 
 # Main function for Streamlit app
 def main():
-    st.title("Cryptographic Systems with Streamlit")  # Title of the Streamlit app
+    st.title("Cryptographic Systems")  # Title of the Streamlit app
 
     # Fernet Encryption Section
     st.header("Fernet Encryption")  # Section header
