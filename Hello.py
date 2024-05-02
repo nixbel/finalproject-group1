@@ -26,16 +26,16 @@ def run():
 
     st.write("# Welcome to Streamlit! 👋")
 
+    st.sidebar.success("")
+
     st.markdown(
         """
-        Leader: 
-        - Belmonte, Jacques Nico 
+        Leader:
+        - Belmonte, Jacques Nico
 
         Members:
-        
         - Redulfin, Maria Yvette
-        - Repia, Abegail 
-        
+        - Repia, Abegail
         ### Want to learn more?
         - Check out [streamlit.io](https://streamlit.io)
         - Jump into our [documentation](https://docs.streamlit.io)
