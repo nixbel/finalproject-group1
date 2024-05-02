@@ -26,7 +26,7 @@ def run():
 
     st.write("# Welcome to Streamlit! 👋")
 
-    st.sidebar.success("")
+    st.sidebar.success()
 
     st.markdown(
         """
